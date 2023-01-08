@@ -51,7 +51,7 @@ html_body = ""
 for gameIndex in range(len(free_games_name)):
     # html_body += f"\t\t\t<h4>{free_games_name[gameIndex]}</h4> \n"
     game_url = URL + free_games_link[gameIndex].replace("/en-US/", "")
-    html_body += f"\t\t\t<a href={game_url}><h4>{free_games_name[gameIndex]}</h4></a> \n"
+    html_body += f"\t\t\t<a href={game_url} style='text-decoration: none; color: #11999E;'><h4>{free_games_name[gameIndex]}</h4></a> \n"
     html_body += f"\t\t\t<img src={free_games_img[gameIndex]}> \n"
     html_body += f"\t\t\t<h5>{free_games_date[gameIndex]} </h5> \n"
 

@@ -3,13 +3,13 @@
     <head>
     </head>
         <body>
-            <h3>New Free Games Epic Store - 2023-01-08</h3>			<a href=https://store.epicgames.com/en-US/p/kerbal-space-program><h4>Kerbal Space Program</h4></a> 
+            <h3>New Free Games Epic Store - 2023-01-08</h3>			<a href=https://store.epicgames.com/en-US/p/kerbal-space-program style='text-decoration: none; color: #11999E;'><h4>Kerbal Space Program</h4></a> 
 			<img src=https://cdn1.epicgames.com/offer/ca0530b485754032be50cb6f27be0c2c/EGS_KerbalSpaceProgram_Squad_S1_2560x1440-380681e19358cb3d1e1162ce755e5e01?h=480&resize=1&w=854> 
 			<h5>Free Now - Jan 12 at 01:00 PM </h5> 
-			<a href=https://store.epicgames.com/en-US/p/shadow-tactics-aikos-choice-5678c1><h4>Shadow Tactics - Aiko's Choice</h4></a> 
+			<a href=https://store.epicgames.com/en-US/p/shadow-tactics-aikos-choice-5678c1 style='text-decoration: none; color: #11999E;'><h4>Shadow Tactics - Aiko's Choice</h4></a> 
 			<img src=https://cdn1.epicgames.com/spt-assets/24f4bf69387246819ea43509effb6ba4/shadow-tactics--aikos-choice-offer-phujx.jpg?h=480&resize=1&w=854> 
 			<h5>Free Now - Jan 12 at 01:00 PM </h5> 
-			<a href=https://store.epicgames.com/en-US/p/first-class-trouble><h4>First Class Trouble</h4></a> 
+			<a href=https://store.epicgames.com/en-US/p/first-class-trouble style='text-decoration: none; color: #11999E;'><h4>First Class Trouble</h4></a> 
 			<img src=https://cdn1.epicgames.com/salesEvent/salesEvent/egs-firstclasstrouble-invisiblewalls-s1-2560x1440-061767b6ed3f_2560x1440-5949bbfd7f9dd488810526905e93a0f1?h=480&resize=1&w=854> 
 			<h5>Free Jan 12 - Jan 19 </h5> 
 
